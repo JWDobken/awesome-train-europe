@@ -16,8 +16,6 @@ Night trains
 - [Back on Track](https://back-on-track.eu/): an initiative to support cross-border night trains
 - [ÖBB Nightjet](https://www.nightjet.com/en/): Austrian night trains
 - interrail night traines
-- [Thello train](https://thello.com): Paris to Venezia via Milano: 
-- [lefigaro.fr](https://lefigaro.fr): French night trains (in French of course): 
 
 ## Maps and tools
 
