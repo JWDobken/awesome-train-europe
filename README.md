@@ -1,24 +1,24 @@
 # Awesome train Europe 🚅 
 
 Resources for train travel through Europe.
+Because it is fast, fun and slow.
 
 ## Planning
 
-- Seat61 (seat61.com): Although it looks outdated, it is a great website that gathers a huge amount of information on train travel in Europe and the world, sorted by countries and cities. It also provides alternative roads and touristic information.
-- Omio (omio.com): Formerly GoEuro, Omio is a platform that allows you to compare and book trains, buses, and flights across Europe. It's a handy tool for planning multi-modal journeys.
-- Google Maps: Use Google Maps to check train routes, schedules, and travel times. It's a great tool for visualizing your journey and planning connections.
-- European Rail Timetable (europeanrailtimetable.eu): The European Rail Timetable is a valuable resource for planning train journeys. It provides detailed schedules for trains across Europe.
-- RailCC (rail.cc): RailCC is a community-driven website that offers information on train routes, stations, and travel tips. It also has a forum where travelers share their experiences.
+- [Seat61]([seat61.com](https://www.seat61.com/)): Although it looks somewhat outdated, it is a great website that gathers a huge amount of information on train travel in Europe and the world, sorted by countries and cities. It also provides alternative roads and touristic information.
+- [Omio](https://www.omio.com/): a platform that allows you to compare and book trains, buses, and flights across Europe. It's a handy tool for planning multi-modal journeys.
+- [Google Maps](https://www.google.com/maps): Use Google Maps to check train routes, schedules, and travel times. It's a great tool for visualizing your journey and planning connections.
+- [The European Rail Timetable](https://www.europeanrailtimetable.eu/): a valuable resource for planning train journeys. It provides detailed schedules for trains across Europe.
+- [RailCC](https://rail.cc/): a community-driven website that offers information on train routes, stations, and travel tips. It also has a forum where travelers share their experiences.
 
-## Night trains
+Night trains
 
-    The different options: interrail night trains
-    Map of the night train network (last update: January 2019)
-    Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): nightjet.com
-    Thello train (Paris to Venezia via Milano): thello.com
-    French night trains (in French): lefigaro.fr
-    Back on track: A European initiative/network to support cross-border night trains
-    The German train company has recently announced the opening of new nightlines in 2021!!
+The different options: interrail night trains
+Map of the night train network (last update: January 2019)
+Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): nightjet.com
+Thello train (Paris to Venezia via Milano): thello.com
+French night trains (in French): lefigaro.fr
+Back on track: A European initiative/network to support cross-border night trains
 
 ## Maps and tools
 
