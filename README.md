@@ -5,7 +5,7 @@ Because it is fast, fun and slow.
 
 ## Planning
 
-- [Seat61](https://www.seat61.com/): Although it looks somewhat outdated, it is a great website that gathers a huge amount of information on train travel in Europe and the world, sorted by countries and cities. It also provides alternative roads and touristic information.
+- [Seat61](https://www.seat61.com/): Although it looks somewhat outdated, it is a gold mine of information on train travel in Europe and the world, sorted by countries and cities. It also provides alternative roads and touristic information.
 - [Omio](https://www.omio.com/): a platform that allows you to compare and book trains, buses, and flights across Europe. It's a handy tool for planning multi-modal journeys.
 - [Google Maps](https://www.google.com/maps): Use Google Maps to check train routes, schedules, and travel times. It's a great tool for visualizing your journey and planning connections.
 - [The European Rail Timetable](https://www.europeanrailtimetable.eu/): a valuable resource for planning train journeys. It provides detailed schedules for trains across Europe.
