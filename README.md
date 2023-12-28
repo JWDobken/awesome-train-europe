@@ -30,6 +30,7 @@ Back on track: A European initiative/network to support cross-border night train
 Websites from which to order cheap train tickets:
 - trainline.eu
 - raileurope.co.uk (formerly loco2)
+- [NS International](https://www.nsinternational.com): the international service of the Nederlandse Spoorwegen (Dutch Railways) and is responsible for selling international train tickets to and from the Netherlands. NS International offers a variety of tickets for train travel within Europe.
 
 National Railway Websites: Each European country has its own national railway company, and their websites are excellent resources for planning. For example:
 
