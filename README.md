@@ -13,19 +13,20 @@ Because it is fast, fun and slow.
 
 Night trains
 
-The different options: interrail night trains
-Map of the night train network (last update: January 2019)
-Austrian night trains (the OBB is pushing for the maintenance and development of night train lines): nightjet.com
-Thello train (Paris to Venezia via Milano): thello.com
-French night trains (in French): lefigaro.fr
-Back on track: A European initiative/network to support cross-border night trains
+- [Back on Track](https://back-on-track.eu/): an initiative to support cross-border night trains
+- [ÖBB Nightjet](https://www.nightjet.com/en/): Austrian night trains
+- interrail night traines
+- [Thello train](https://thello.com): Paris to Venezia via Milano: 
+- [lefigaro.fr](https://lefigaro.fr): French night trains (in French of course): 
 
 ## Maps and tools
 
-- [Chronotrains](<https://www.chronotrains.com/) shows you which destinations you can reach from any train station in Europe within a given amount of time
+- [Chronotrains](https://www.chronotrains.com/) shows you which destinations you can reach from any train station in Europe within a given amount of time
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
 
 ## Tickets
+
+- <https://www.reddit.com/r/AskEurope/comments/cmu3nd/where_do_you_buy_train_ticket_online/>
 
 Websites from which to order cheap train tickets:
 - trainline.eu
@@ -98,3 +99,4 @@ Ukraine: UR
 ## API's
 
 - Rail Europe API
+
