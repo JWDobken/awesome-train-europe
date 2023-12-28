@@ -27,7 +27,7 @@ Night trains
 - <https://www.reddit.com/r/AskEurope/comments/cmu3nd/where_do_you_buy_train_ticket_online/>
 
 Websites from which to order cheap train tickets:
-- trainline.eu
+- [trainline.eu](https://www.thetrainline.com/)
 - raileurope.co.uk (formerly loco2)
 - [NS International](https://www.nsinternational.com): the international service of the Nederlandse Spoorwegen (Dutch Railways) and is responsible for selling international train tickets to and from the Netherlands. NS International offers a variety of tickets for train travel within Europe.
 
