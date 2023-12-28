@@ -22,8 +22,8 @@ Back on track: A European initiative/network to support cross-border night train
 
 ## Maps and tools
 
-- <https://www.chronotrains.com/> shows you which destinations you can reach from any train station in Europe within a given amount of time
-- [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world
+- [Chronotrains](<https://www.chronotrains.com/) shows you which destinations you can reach from any train station in Europe within a given amount of time
+- [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
 
 ## Tickets
 
