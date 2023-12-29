@@ -15,79 +15,70 @@ Night trains
 
 - [Back on Track](https://back-on-track.eu/): an initiative to support cross-border night trains
 - [ÖBB Nightjet](https://www.nightjet.com/en/): Austrian night trains
-- interrail night traines
+- [Interrail night traines](https://www.interrail.eu/en/plan-your-trip/tips-and-tricks/trains-europe/night-trains)
 
-## Maps and apps
+## Maps & apps
 
-- [Chronotrains](https://www.chronotrains.com/) shows you which destinations you can reach from any train station in Europe within a given amount of time
+- [Chronotrains](https://www.chronotrains.com/): destinations you can reach from any train station in Europe within a given amount of time
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
 
 ## Tickets
 
-- <https://www.reddit.com/r/AskEurope/comments/cmu3nd/where_do_you_buy_train_ticket_online/>
-
 Websites from which to order cheap train tickets:
+
 - [trainline.eu](https://www.thetrainline.com/)
-- raileurope.co.uk (formerly loco2)
+- [raileurope.co.uk](https://www.raileurope.com/en-gb): book tickets, check schedules, and find useful travel information on their website.
 - [NS International](https://www.nsinternational.com): the international service of the Nederlandse Spoorwegen (Dutch Railways) and is responsible for selling international train tickets to and from the Netherlands. NS International offers a variety of tickets for train travel within Europe.
 
-National Railway Websites: Each European country has its own national railway company, and their websites are excellent resources for planning. For example:
+## National Railways
 
-- Deutsche Bahn (https://www.bahn.de/): German Railway
-- SNCF (sncf.com): French National Railway
-- Trenitalia (trenitalia.com): Italian National Railway
-- Renfe (renfe.com): Spanish National Railway
-Albania: HSH
-Austria (OBB, small prices): Sparschiene
-Belgium: SNCB
-Bosnia and Herzegovina: ZFBH or ŽRS
-Bulgaria: BDZ
-Catalonia: rodalies
-Croatia: hzpp.hr
-Czech republic: cd.cz
-Denmark: DSB
-Estonia: evr.ee (state-owned) and elron.ee (around Tallin, private company)
-Finland: veturi (VR)
-France: SNCF
-Germany (Deutsche Bahn, small prices): Preisfinder
-Greece: OSE
-Hungary: MÁV-csoport
-Ireland (Eire): irishrail
-Italy: trenitalia
-Kosovo: trainkos
-Latvia: dz.lv
-Lithuania: litrail
-Macedonia: MZT
-Moldavia: CFM
-Montenegro: ZCG
-Netherlands, the: ns.nl
-Norway: VY
-Poland: polrail
-Portugal: cp.pt
-Romania: Căile Ferate Române
-Serbia: ŽS
-Slovakia: slovakrail
-Slovenia: slo-zeleznice
-Spain: RENFE
-Sweden: sj.se
-Switzerland: SBB/CFF
-Ukraine: UR
+Each European country has its own national railway company.
+
+| Country                   | Railway Company                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 🇦🇱 Albania                | HSH                                                                                                    |
+| 🇦🇹 Austria                | [OBB](https://www.oebb.at/en)                                                                          |
+| 🇧🇪 Belgium                | [SNCB](https://www.belgiantrain.be/en)                                                                 |
+| 🇧🇦 Bosnia and Herzegovina | ZFBH or ŽRS                                                                                            |
+| 🇧🇬 Bulgaria               | [BDZ](http://www.bdz.bg/en/)                                                                           |
+| 🇪🇸 Catalonia              | Rodalies                                                                                               |
+| 🇭🇷 Croatia                | [hzpp.hr](http://hzpp.hr)                                                                              |
+| 🇨🇿 Czech Republic         | [cd.cz](http://cd.cz)                                                                                  |
+| 🇩🇰 Denmark                | [DSB](https://www.dsb.dk/en/)                                                                          |
+| 🇪🇪 Estonia                | [evr.ee](http://evr.ee) (state-owned) and [elron.ee](http://elron.ee) (around Tallin, private company) |
+| 🇫🇮 Finland                | [Veturi (VR)](https://www.vr.fi/cs/vr/en/frontpage)                                                    |
+| 🇫🇷 France                 | [SNCF](https://www.sncf.com/en)                                                                        |
+| 🇩🇪 Germany                | [Deutsche Bahn](https://www.bahn.com/en/)                                                              |
+| 🇬🇷 Greece                 | [OSE](http://www.ose.gr/en/)                                                                           |
+| 🇭🇺 Hungary                | [MÁV-csoport](https://www.mavcsoport.hu/en)                                                            |
+| 🇮🇪 Ireland (Eire)         | [Irish Rail](https://www.irishrail.ie/en-ie)                                                           |
+| 🇮🇹 Italy                  | [Trenitalia](https://www.trenitalia.com/en.html)                                                       |
+| 🇽🇰 Kosovo                 | Trainkos                                                                                               |
+| 🇱🇻 Latvia                 | [DZ](https://www.pv.lv/en/)                                                                            |
+| 🇱🇹 Lithuania              | [Litrail](https://www.litrail.lt/en/)                                                                  |
+| 🇲🇰 Macedonia              | MZT                                                                                                    |
+| 🇲🇩 Moldavia               | CFM                                                                                                    |
+| 🇲🇪 Montenegro             | ZCG                                                                                                    |
+| 🇳🇱 Netherlands, the       | [NS.nl](https://www.ns.nl/en)                                                                          |
+| 🇳🇴 Norway                 | [VY](https://www.vy.no/en)                                                                             |
+| 🇵🇱 Poland                 | [Polrail](http://www.polrail.com/)                                                                     |
+| 🇵🇹 Portugal               | [CP.pt](https://www.cp.pt/passageiros/en)                                                              |
+| 🇷🇴 Romania                | [Căile Ferate Române](http://www.cfr.ro/)                                                              |
+| 🇷🇸 Serbia                 | ŽS                                                                                                     |
+| 🇸🇰 Slovakia               | [Slovakrail](https://www.slovakrail.sk/en)                                                             |
+| 🇸🇮 Slovenia               | [Slo-zeleznice](https://www.slo-zeleznice.si/en/)                                                      |
+| 🇪🇸 Spain                  | [RENFE](https://www.renfe.com/)                                                                        |
+| 🇸🇪 Sweden                 | [SJ.se](https://www.sj.se/en/home.html)                                                                |
+| 🇨🇭 Switzerland            | [SBB/CFF](https://www.sbb.ch/en)                                                                       |
+| 🇺🇦 Ukraine                | UR                                                                                                     |
 
 ## Passes
-- Eurail (eurail.com): Eurail is a popular pass that allows unlimited train travel across Europe. Their website provides information on passes, routes, and travel tips.
-- Interrail (interrail.eu): Similar to Eurail, Interrail offers train passes for European residents. Their website provides information on passes, train schedules, and travel inspiration.
-- Rail Europe (raileurope.com): Rail Europe is a one-stop-shop for European train travel. You can book tickets, check schedules, and find useful travel information on their website.
 
-
-
-- for European citizens: interrail.eu
-- for non-European citizens: eurail.com
-- Spain: RENFE Spain pass
-- Switzerland: swiss travel pass
-- Balkan Flexi pass: Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina
-
-
-
+- [Interrail.eu](): for European citizens, a popular pass that allows unlimited train travel across Europe. Their website provides information on passes, routes, and travel tips.
+- [eurail.com]() for non-European citizens.
+- Spain: [RENFE Spain pass](https://www.renfe.com/es/en/travel/prepare-your-trip/abonos-ave-y-largadistancia/renfe-spain-pass)
+- Switzerland: [swiss travel pass](https://www.swiss-pass.ch/)
+- [Balkan Flexi pass](https://rail.cc/balkan-flexi-pass): Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina
 
 ## Books / magazines
 
@@ -96,5 +87,18 @@ Ukraine: UR
 
 ## API's
 
+WIP
+
 - Rail Europe API
 
+## Travel with little kids
+
+As if it wasn't challenging enough
+
+- [Conde Nast Traveler: train travel with kids](https://www.cntraveler.com/story/train-travel-with-kids)
+- [Lonely Planet: train travel with kids](https://www.lonelyplanet.com/articles/train-travel-with-kids)
+
+There are loads of discounts for children:
+
+- [UK kids are free under 5yo](https://www.nationalrail.co.uk/on-the-train/train-travel-with-children/)
+- [NS International: fares and discounts per country](https://www.nsinternational.com/en/train-fares-and-discounts/travelling-with-children)
