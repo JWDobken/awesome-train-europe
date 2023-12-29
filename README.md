@@ -17,7 +17,7 @@ Night trains
 - [ÖBB Nightjet](https://www.nightjet.com/en/): Austrian night trains
 - interrail night traines
 
-## Maps and tools
+## Maps and apps
 
 - [Chronotrains](https://www.chronotrains.com/) shows you which destinations you can reach from any train station in Europe within a given amount of time
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
