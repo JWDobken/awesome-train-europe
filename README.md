@@ -21,6 +21,8 @@ Night trains
 
 - [Chronotrains](https://www.chronotrains.com/): destinations you can reach from any train station in Europe within a given amount of time
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
+- [OSM Interrail planner](https://github.com/OSM-Interrail-Planner/osm_interrail_planner): plan your next interrail trip by finding the optimized railway route between multiple destinations.
+- [railtrack](https://railtrack.ch) app to track your train journey
 
 ## Tickets
 
@@ -85,15 +87,14 @@ Each European country has its own national railway company.
 - https://www.europebyrail.eu
 - https://www.railwaygazette.com/
 
-## API's
-
-WIP
+## API's and data
 
 - Rail Europe API
+- [Stations - A Database of European Train Stations](https://github.com/trainline-eu/stations)
 
 ## Travel with little kids
 
-As if it wasn't challenging enough
+As if it isn't challenging enough
 
 - [Conde Nast Traveler: train travel with kids](https://www.cntraveler.com/story/train-travel-with-kids)
 - [Lonely Planet: train travel with kids](https://www.lonelyplanet.com/articles/train-travel-with-kids)
