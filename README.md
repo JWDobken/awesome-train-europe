@@ -1,4 +1,4 @@
-# Awesome train Europe 🚅 
+# Awesome train Europe 🚋 🇪🇺
 
 Resources for train travel through Europe.
 Because it is fast, fun and slow.
