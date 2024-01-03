@@ -43,7 +43,7 @@ Each European country has its own national railway company.
 | 🇧🇪 Belgium                | [SNCB](https://www.belgiantrain.be/en)                                                                 |
 | 🇧🇦 Bosnia and Herzegovina | ZFBH or ŽRS                                                                                            |
 | 🇧🇬 Bulgaria               | [BDZ](http://www.bdz.bg/en/)                                                                           |
-| 🇪🇸 Catalonia              | Rodalies                                                                                               |
+| 🇪🇸 Catalonia              | [Rodalies](https://rodalies.gencat.cat/en/inici/index.html)                                            |
 | 🇭🇷 Croatia                | [hzpp.hr](http://hzpp.hr)                                                                              |
 | 🇨🇿 Czech Republic         | [cd.cz](http://cd.cz)                                                                                  |
 | 🇩🇰 Denmark                | [DSB](https://www.dsb.dk/en/)                                                                          |
