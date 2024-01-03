@@ -58,6 +58,7 @@ Each European country has its own national railway company.
 | 🇽🇰 Kosovo                 | Trainkos                                                                                               |
 | 🇱🇻 Latvia                 | [DZ](https://www.pv.lv/en/)                                                                            |
 | 🇱🇹 Lithuania              | [Litrail](https://www.litrail.lt/en/)                                                                  |
+| 🇱🇺 Luxembourg             | [Mobiliteit.lu](https://mobiliteit.lu)                                                                 |
 | 🇲🇰 Macedonia              | MZT                                                                                                    |
 | 🇲🇩 Moldavia               | CFM                                                                                                    |
 | 🇲🇪 Montenegro             | ZCG                                                                                                    |
@@ -81,6 +82,7 @@ Each European country has its own national railway company.
 - Spain: [RENFE Spain pass](https://www.renfe.com/es/en/travel/prepare-your-trip/abonos-ave-y-largadistancia/renfe-spain-pass)
 - Switzerland: [swiss travel pass](https://www.swiss-pass.ch/)
 - [Balkan Flexi pass](https://rail.cc/balkan-flexi-pass): Bulgaria, Greece, Macedonia, Montenegro, Romania -only the Regio Calatori operator, Serbia, Turkey and Bosnia Herzegovina
+- Luxembourg is the [land of the free trains](https://luxembourg.public.lu/en/living/mobility/public-transport.html).
 
 ## Books / magazines
 
