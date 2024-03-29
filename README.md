@@ -16,6 +16,7 @@ Night trains
 - [Back on Track](https://back-on-track.eu/): an initiative to support cross-border night trains
 - [ÖBB Nightjet](https://www.nightjet.com/en/): Austrian night trains
 - [Interrail night traines](https://www.interrail.eu/en/plan-your-trip/tips-and-tricks/trains-europe/night-trains)
+- [European Sleeper](https://www.europeansleeper.eu/): night trains between Brussels, Amsterdam, Berlin and Prague (and maybe more to be expected)
 
 ## Maps & apps
 
