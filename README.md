@@ -90,6 +90,11 @@ Each European country has its own national railway company.
 - https://www.europebyrail.eu
 - https://www.railwaygazette.com/
 
+News:
+
+- [TEN-T](https://transport.ec.europa.eu/transport-themes/infrastructure-and-investment/trans-european-transport-network-ten-t_en) are EU plans to invest heavily in infrastructure including railroads.
+
+
 ## API's and data
 
 - Rail Europe API
