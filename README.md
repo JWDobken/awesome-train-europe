@@ -24,6 +24,7 @@ Night trains
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
 - [OSM Interrail planner](https://github.com/OSM-Interrail-Planner/osm_interrail_planner): plan your next interrail trip by finding the optimized railway route between multiple destinations.
 - [railtrack](https://railtrack.ch) app to track your train journey
+- [Traveltime contourmap of the Netherlands](https://nsmaps.romgens.com/?station=ZBM)
 
 ## Tickets
 
