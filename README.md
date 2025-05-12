@@ -20,7 +20,7 @@ Night trains
 
 ## Maps & apps
 
-- The Back-on-Track Night Train Map](https://back-on-track.eu/night-train-map/)
+- The [Back-on-Track Night Train Map](https://back-on-track.eu/night-train-map/)
 - [Chronotrains](https://www.chronotrains.com/): destinations you can reach from any train station in Europe within a given amount of time
 - [Open railwaymap](https://www.openrailwaymap.org/): all the railways in the world (fun but useless)
 - [OSM Interrail planner](https://github.com/OSM-Interrail-Planner/osm_interrail_planner): plan your next interrail trip by finding the optimized railway route between multiple destinations.
